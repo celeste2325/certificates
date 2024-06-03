@@ -6,6 +6,7 @@ Certificates of courses taken in Education IT academy, bootcamp of besysoft a so
 *Curriculum*
 
 Besysoft (https://www.besysoft.com/)
+  
   *Bootcamp Spring Boot*
    - Maven
    - Spring Framework & Spring Boot
@@ -23,6 +24,7 @@ Besysoft (https://www.besysoft.com/)
    - Exceptions
 
 Education IT academy (https://www.educacionit.com/)
+  
   *Java Web API*
    - Java Sessions Utilization
    - Advanced JSP Features
@@ -56,6 +58,7 @@ Education IT academy (https://www.educacionit.com/)
    - GitHub Pages: Publishing
    - 
 Ministry of production Argentina (https://www.inet.edu.ar/index.php/presentamos-el-programa-111-mil-programadores-en-casa-rosada/)
+  
   *Analyst Programmer*
    - Object-oriented programming (OOP)
    - Java basics
