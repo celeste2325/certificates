@@ -56,7 +56,7 @@ Education IT academy (https://www.educacionit.com/)
    - Validation with AI
    - Tables, Frames, and Videos
    - GitHub Pages: Publishing
-   - 
+     
 Ministry of production Argentina (https://www.inet.edu.ar/index.php/presentamos-el-programa-111-mil-programadores-en-casa-rosada/)
   
   *Analyst Programmer*
